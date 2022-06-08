@@ -1,14 +1,14 @@
 user = {
       'Endless' : {
-            'phone' : '+996999052004',
+            'phone' : '+996999090998',
             'name' : 'marselle',
-            'balance' : 5000,
+            'balance' : 999999,
             'password' : 'endlesskey'
       },
       'zerotwo' : {
             'phone' : '+996555666777',
             'name' : 'Zerotwo',
-            'balance' : 587043,
+            'balance' : 499999,
             'password' : 'zerotwo'
       },
 }
@@ -102,27 +102,3 @@ while True:
                   print('     Номер телефона: ',user[mars]['phone'])
             else:
                   print('     Далбаеб авторизуется')
-
-# user = {
-#       'Sabina' : {
-#             'phone' : '+996999052004',
-#             'name' : 'Sabina',
-#             'balance' : 5000,
-#             'password' : 'endlesskey'
-#       },
-#       'Marselle' : {
-#             'phone' : '+996555666777',
-#             'name' : 'Marselle',
-#             'balance' : 587043,
-#             'password' : 'zerotwo'
-#       },
-# }
-
-
-# print(user['Marselle']['name'])
-# user['Sabina']['age'] = 14
-# user['Sabina']['name'] = 'Dora'
-# print(user['Sabina'])
-# user['Sabina']['balance'] = 99999999999999990
-
-# print(user['Sabina'])
